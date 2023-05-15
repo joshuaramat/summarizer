@@ -1,4 +1,6 @@
-# BriefMe
+# BriefMe [![Netlify Status](https://api.netlify.com/api/v1/badges/7531efa5-073d-4367-bcb6-fdb0a32ac3a4/deploy-status)](https://app.netlify.com/sites/brief-me-jr/deploys)
+
+brief-me-jr.netlify.app/
 
 ![screenshot](./public/briefme.png)
 
