@@ -1,6 +1,6 @@
 # BriefMe
 
-
+![screenshot](./public/briefme.png)
 
 ## Description
 
