@@ -4,10 +4,13 @@ const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
       <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-        <img src={logo} alt='logo' className='w-28 object-contain' />
+        <div className='flex w-10 object-contain items-center'>
+          <img src={logo} alt='logo' />
+          <h1 className='flex items-center justify-center pt-3 font-satoshi font-bold text-xl text-gray-600'>BriefMe</h1>
+        </div>
         <button
           type='button'
-          onClick={() => window.open('https://github.com/joshuaramt')}
+          onClick={() => window.open('https://github.com/joshuaramt')} 
           className='black_btn'
         >
           GitHub
@@ -15,12 +18,13 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        Summarize Articles With 
-        <br className='max-md:hidden' />
-        <span className='orange_gradient'>OpenAI's GPT-4</span>
+        <span className='blue_gradient'>BriefMe</span>. 
+        <br className='max-md:hidden' /> Distill the web, one URL at a time.
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
+        <span className='blue_gradient'>Streamline complex information into concise summaries with AI.</span>
+        <br />
+        Simply enter a URL and watch BriefMe effortlessly condenses intricate articles, lengthy blogs, or comprehensive reports into succinct summaries. No more wading through excessive detail or irrelevant information – BriefMe delivers clarity and comprehension at a glance.
       </h2>
     </header>
   )
