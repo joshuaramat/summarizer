@@ -1,6 +1,6 @@
 # BriefMe
 
-![screenshot](./public/BriefMe.png)
+![screenshot](./public/briefme.png)
 
 ## Description
 
