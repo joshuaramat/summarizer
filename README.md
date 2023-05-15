@@ -1,5 +1,7 @@
 # BriefMe
 
+![screenshot](./public/BriefMe.png)
+
 ## Description
 
 Experience the future of information processing with BriefMe, an AI-driven tool that revolutionizes how we consume content. By transforming intricate articles, comprehensive reports, or lengthy blogs into succinct summaries with a single URL, BriefMe delivers clarity and comprehension instantly.
