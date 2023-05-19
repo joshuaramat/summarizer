@@ -3,7 +3,7 @@ import logo from '../assets/footer-logo.svg'
 
 const Footer = () => {
   return (
-    <footer className='flex justify-center fixed inset-x-0 bottom-0'>
+    <footer className='flex justify-center inset-x-0 bottom-0'>
       <hr />
       <img src={logo} alt='logo' />
     </footer>

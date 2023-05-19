@@ -6,8 +6,7 @@ const Hero = () => {
     <header className='w-full flex justify-center items-center flex-col'>
       <Nav />
       <h1 className='head_text'>
-        <span className='blue_gradient'>BriefMe</span>. 
-        <br className='max-md:hidden' /> Distill the web, one URL at a time.
+        <span className='blue_gradient'>BriefMe</span>. Distill the web, one URL at a time.
       </h1>
       <h2 className='desc'>
         <span className='blue_gradient'>Streamline complex information into concise summaries with AI.</span>
