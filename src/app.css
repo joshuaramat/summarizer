@@ -82,6 +82,10 @@
   @apply mt-5 text-5xl font-extrabold leading-[1.15] text-gray-700 sm:text-6xl text-left max-w-2xl;
 }
 
+.foot_text {
+  @apply font-extrabold leading-[1.15] text-gray-400/50 text-9xl max-w-2xl;
+}
+
 .desc {
   @apply mt-5 text-lg text-gray-600 sm:text-xl text-left max-w-2xl;
 }
